@@ -1,0 +1,37 @@
+(Arduino GND)
+
+Wire going from Arduino GND → breadboard blue (–) rail
+
+Ultrasonic Sensor (HC-SR04)
+
+Wire going from Arduino 5V → breadboard red (+) rail
+
+Wire going from breadboard red (+) rail → breadboard hole A10
+
+Ultrasonic VCC pin → breadboard hole A10
+
+Wire going from Arduino pin 9 → breadboard hole A11
+
+Ultrasonic TRIG pin → breadboard hole A11
+
+Wire going from Arduino pin 10 → breadboard hole A12
+
+Ultrasonic ECHO pin → breadboard hole A12
+
+Ultrasonic GND pin → breadboard hole A13
+
+Wire going from breadboard hole A13 → breadboard blue (–) rail
+
+Servo Motor (Parking Barrier)
+
+Servo signal wire (yellow/white) → breadboard hole A20
+
+Wire going from breadboard hole A20 → Arduino pin 6
+
+Servo ground wire (brown/black) → breadboard blue (–) rail
+
+Servo power wire (red) → external battery pack positive (+)
+
+External Battery Pack
+
+Battery pack negative (–) → breadboard blue (–) rail
