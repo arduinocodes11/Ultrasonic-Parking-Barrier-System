@@ -1,2 +1,1 @@
-# Ultrasonic-Parking-Barrier-System
-This is a combination of the code and breadboard diagram to setup the Arduino Ultrasonic Parking Barrier System project featured in my YouTube video.
+This is basically a parking gate barrier you see for cars in places like parking lots. I enjoyed making this as it was one of my
